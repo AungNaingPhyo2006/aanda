@@ -7,7 +7,7 @@ export default function Plan() {
     bg-[#ECD7D0]
     p-4">
     <div className="bg-white/80 p-6 rounded-lg shadow-lg w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
-      <h1 className="text-2xl font-bold text-center text-[#4C5933] mb-6">"မင်္ဂလာ အစီအစဥ်"</h1>
+      <h1 className="text-2xl font-bold text-center text-[#4C5933] mb-6">မင်္ဂလာ အစီအစဥ်</h1>
       <h1 className="text-2xl font-bold text-center text-[#383B42] mt-6">..................</h1>
 
       {/* Scrollable Content */}
