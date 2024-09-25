@@ -5,7 +5,7 @@ export default function About() {
     <div className="min-h-screen flex items-center justify-center
 
     bg-[#ECD7D0]
-    p-4">
+    p-2">
     <div className="bg-white/80 p-6 rounded-lg shadow-lg w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
       <h1 className="text-xl font-bold text-center text-[#383B42] mb-6">မင်္ဂလာဦး ဆွမ်းကျွေး ဖိတ်ကြားလွှာ</h1>
 
