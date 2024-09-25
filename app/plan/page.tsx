@@ -16,17 +16,17 @@ export default function Plan() {
           <p className="text-2xl font-bold   text-gray-900">
           မင်္ဂလာ နေ့ရက်
           </p>
-          <p className="text-lg font-bold text-[#462048]">၁၃၈၆ ခုနှစ်၊ တန်ဆောင်မုန်း လပြည့်ကျော်(၉)ရက်၊ ၂၄.၁၁.၂၀၂၄(တနင်္ဂနွေနေ့)။<br/></p>
+          <p className="text-lg text-[#462048]">၁၃၈၆ ခုနှစ်၊ တန်ဆောင်မုန်း လပြည့်ကျော်(၉)ရက်၊ ၂၄.၁၁.၂၀၂၄(တနင်္ဂနွေနေ့)။<br/></p>
           <div className='h-12'/>
           <p className="text-2xl font-bold   text-gray-900">
           မင်္ဂလာ အချိန်
           </p>
-          <p className="text-lg font-bold text-[#462048]">နံနက်( ၉ ) နာရီ မှ ( ၁၁ ) နာရီ အထိ။<br/></p>
+          <p className="text-lg  text-[#462048]">နံနက်( ၉ ) နာရီ မှ ( ၁၁ ) နာရီ အထိ။<br/></p>
           <div className='h-12'/>
           <p className="text-2xl font-bold   text-gray-900">
           မင်္ဂလာ နေရာ
           </p>
-          <p className="text-lg font-bold text-[#462048]">သထုံမြို့၊ အောက်ကျင်းရပ်၊ (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
+          <p className="text-lg  text-[#462048]">သထုံမြို့၊ အောက်ကျင်းရပ်၊ (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
       {/* Wedding Plan Details */}
       <div className='h-4'/>
         <div className="mt-1">
