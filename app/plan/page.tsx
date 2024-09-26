@@ -5,7 +5,7 @@ export default function Plan() {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-[#FFD700] to-[#FFA500] p-2">
     <div className="bg-white/80 p-6 rounded-lg shadow-lg w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
       <h1 className="text-2xl font-bold text-center text-[#4C5933] mb-6">မင်္ဂလာ အစီအစဥ်</h1>
-      <h1 className="text-2xl font-bold text-center text-[#383B42] mt-6">..................</h1>
+      <h1 className="text-2xl font-bold text-center text-[#383B42] mt-2">..................</h1>
 
       {/* Scrollable Content */}
       {/* Wedding Plan Details */}
@@ -18,12 +18,12 @@ export default function Plan() {
           <p className="text-2xl font-bold   text-gray-900">
           မင်္ဂလာ အချိန်
           </p>
-          <p className="text-lg  text-[#462048]">နံနက်( ၉ ) နာရီ မှ ( ၁၁ ) နာရီ အထိ။<br/></p>
+          <p className="text-lg  text-[#462048]">နံနက်( ၈ ) နာရီ မှ ( ၁၀ ) နာရီ အထိ။<br/></p>
           <div className='h-12'/>
           <p className="text-2xl font-bold   text-gray-900">
           မင်္ဂလာ နေရာ
           </p>
-          <p className="text-lg  text-[#462048]">သထုံမြို့၊ အောက်ကျင်းရပ်၊ (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
+          <p className="text-lg  text-[#462048]">အမှတ်(၄၂၆)၊ အုတ်ဖိုတန်းလမ်း၊ အောက်ကျင်းရပ်၊ (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
       <div className='h-4'/>
         <div className="mt-1">
         <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/">လှိုက်လှဲစွာ ကျေးဇူးတင်ရှိပါသည်။</Link>
