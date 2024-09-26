@@ -9,7 +9,7 @@ export default function About() {
       {/* Scrollable Content */}
      {/* Groom's Content */}
       <div className="text-center space-y-4">
-          <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">
+          <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800 ">
           စစ်ကိုင်းတိုင်းဒေသကြီး ၊ တမူးမြို့ ၊ <br /> မြို့မရပ်နေ  ဦးမောင်မြင့် + ဒေါ်စန်းရီ တို့၏ သားကြီး၊ <br/>မောင်အောင်နိုင်မျိုး + Ruth Neng Nei Lhing HK တို့၏အစ်ကို
           </p>
           <p className="text-2xl font-bold text-[#ff69b4]">မောင်အောင်နိုင်ဖြိုး</p>
@@ -17,7 +17,7 @@ export default function About() {
           <p className="text-2xl font-bold text-[#ff6347]">နှင့်</p>
      {/* Bride's Content */}
         <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl text-gray-800">
-          မွန်ပြည်နယ် ၊ သထုံမြို့ ၊ <br /> အောက်ကျင်းရပ်နေ  (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း တို့၏ သမီးကြီး၊ <br/>မောင်ခိုင်စိုး+ မအေးအေးမွန်၊ မထက်ထက်ဖြိုး၊ မထက်ထက်မျိုး တို့၏အစ်မ
+          မွန်ပြည်နယ် ၊ သထုံမြို့ ၊ အောက်ကျင်းရပ်နေ <br /> (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း တို့၏ သမီးကြီး၊ <br/>မောင်ခိုင်စိုး+ မအေးအေးမွန်၊ မထက်ထက်ဖြိုး၊ မထက်ထက်မျိုး တို့၏အစ်မ
          </p>
           <p className="text-2xl font-bold text-[#ff69b4]">မအေးအေးစိုး</p>
           <p className="sm:text-lg md:text-md lg:text-md xl:text-md text-gray-900">B.Sc(Maths)</p>
