@@ -8,10 +8,12 @@ export default function Love() {
       {/* Scrollable Content */}
       {/* Wedding Plan Details */}
       <div className="text-center space-y-4 mt-6">
-          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">တကယ်ချစ်ဖို့ပဲ လိုတာပါ။ တကယ်ချစ်ရင် သူ့ခေါင်းလေးကိုပုတ် ဆံပင်လေးကို သပ်ပေးတာကအစ ကမ္ဘာတစ်ခြမ်းကို ပိုင်ဆိုင်ခွင့်ရလိုက်သလို...</p>
-          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">သူ့နဖူးကို ခပ်ဖွဖွ နမ်းလိုက်တာနဲ့တင် ကိုယ်ဟာ သူ့ဘဝရဲ့ အရှင်သခင်တစ်ပါး....</p>
-          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">သူနှာစေး ချောင်းဆိုးတာလေးဟာ ကိုယ့်အတွက် တတိယကမ္ဘာစစ်...</p>
-          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ချစ်ခြင်းသာ မှန်ပါစေ...ကိုယ့်အပေါ် စိုးရိမ်တကြီး ကြည့်လိုက်တဲ့ အကြည့်လေးကအစ ဘယ်သူမှ မရနိုင်တဲ့ အကောင်းဆုံး လက်ဆောင်ပါ....။</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ဆေးပေးမီးယူ</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ဘုရားသွား ကျောင်းတက်</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ကြင်နာဖော် ကြင်နာဖက်နဲ့</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">လက်တွဲဖို့ ရည်ရွယ်ခဲ့တဲ့ ကိုယ့်ရဲ့ဆန္ဒလေးတစ်ခု</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">မင်းနဲ့တွေ့မှ ပြည့်ခဲ့ပြီ....။</p>
+
       <div className='h-4'/>
         <div className="mt-1">
         <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/">နောက် သို့...</Link>
