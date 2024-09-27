@@ -26,7 +26,7 @@ export default function Plan() {
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#462048]">အမှတ်(၄၂၆)၊ အုတ်ဖိုတန်းလမ်း၊ အောက်ကျင်းရပ်၊ (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
       <div className='h-4'/>
         <div className="mt-1">
-        <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/">လှိုက်လှဲစွာ ကျေးဇူးတင်ရှိပါသည်။</Link>
+        <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/love">လှိုက်လှဲစွာ ကျေးဇူးတင်ရှိပါသည်။</Link>
         </div>
       <div className='h-4'/>
       </div>
