@@ -44,7 +44,7 @@ export default function About() {
           <p className="sm:text-lg md:text-md lg:text-md xl:text-md text-gray-900">B.Sc(Maths)</p>
           <p className="text-xl font-bold text-[#ff6347]">တို့၏</p>
           {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦး ဆွမ်းကျွေး အခမ်းအနားသို့ ကြွရောက်ချီးမြှင့်ပေးပါရန် နှစ်ဖက်သော မိဘများနှင့် ကျွန်တော် ကျွန်မတို့က ခင်မင်လေးစားစွာဖြင့် ဖိတ်ကြားအပ်ပါသည်။</p> */}
-          <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦး ဆွမ်းကျွေး အခမ်းအနားသို့ ကြွရောက်ချီးမြှင့်ပေးပါရန် </p>
+          <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦး ဆွမ်းကျွေး အခမ်းအနားသို့ </p>
           <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">ကြွရောက်ချီးမြှင့်ပေးပါရန် </p>
           <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">နှစ်ဖက်သော မိဘများနှင့် ကျွန်တော် ကျွန်မတို့က </p>
           <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">ခင်မင်လေးစားစွာဖြင့် ဖိတ်ကြားအပ်ပါသည်။</p>
