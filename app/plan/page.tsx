@@ -23,7 +23,9 @@ export default function Plan() {
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold   text-gray-900">
           မင်္ဂလာ နေရာ
           </p>
-          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#462048]">အမှတ်(၄၂၆)၊ အုတ်ဖိုတန်းလမ်း၊ အောက်ကျင်းရပ်၊ (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#462048]">အမှတ်(၄၂၆)၊ အုတ်ဖိုတန်းလမ်း၊ အောက်ကျင်းရပ်၊</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#462048]">(ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း မိသားစုတို့၏ နေအိမ်သို့။<br/></p>
+   
       <div className='h-4'/>
         <div className="mt-1">
         <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/love">လှိုက်လှဲစွာ ကျေးဇူးတင်ရှိပါသည်။</Link>

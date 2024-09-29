@@ -11,7 +11,8 @@ export default function Love() {
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ဆေးပေးမီးယူ</p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ဘုရားသွား ကျောင်းတက်</p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ကြင်နာဖော် ကြင်နာဖက်နဲ့</p>
-          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">လက်တွဲဖို့ ရည်ရွယ်ခဲ့တဲ့ ကိုယ့်ရဲ့ဆန္ဒလေးတစ်ခု</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">လက်တွဲဖို့ ရည်ရွယ်ခဲ့တဲ့</p>
+          <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">ကိုယ့်ရဲ့ဆန္ဒလေးတစ်ခု</p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#4C5933]">မင်းနဲ့တွေ့မှ ပြည့်ခဲ့ပြီ....။</p>
 
       <div className='h-4'/>
