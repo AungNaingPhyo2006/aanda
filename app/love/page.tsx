@@ -17,7 +17,7 @@ export default function Love() {
         ကြည့်ရှုမည်
       </Link> */}
       <div className='h-20'/>
-      <div className="mx-24">
+      <div className="mx-12">
       <Link className="rounded-full border border-solid border-white hover:bg-pink-500 hover:border-transparent  font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/">Back</Link>
       </div>
       </div>
