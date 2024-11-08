@@ -14,10 +14,8 @@ export default function Home() {
           href="/about">
           ကြည့်ရှုမည်
         </Link> */}
-        <Link className="rounded-full border border-solid border-white/[.08] hover:bg-pink-500 hover:border-transparent  font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/about"> ကြည့်ရှုမည်</Link>
-
+        <Link className="rounded-full border border-solid border-white hover:bg-pink-500 hover:border-transparent  font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/about"> ကြည့်ရှုမည်</Link>
         </div>
-      
       </main>
     </div>
   );
