@@ -10,7 +10,7 @@ export default function About() {
      {/* Groom's Content */}
       <div className="text-center space-y-4">
           <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl  text-gray-800 ">
-          စစ်ကိုင်းတိုင်းဒေသကြီး ၊ တမူးမြို့ ၊<br /> မြို့မရပ်နေ  ဦးမောင်မြင့် + ဒေါ်စန်းရီ တို့၏ သားကြီး၊ <br/>မောင်အောင်နိုင်မျိုး + Ruth Neng Nei Lhing HK တို့၏အစ်ကို
+          စစ်ကိုင်းတိုင်းဒေသကြီး ၊ တမူးမြို့ ၊<br /> မြို့မရပ်နေ  ဦးမောင်မြင့် + ဒေါ်စန်းရီ တို့၏ သား
           </p>
           {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800 ">
           စစ်ကိုင်းတိုင်းဒေသကြီး ၊ တမူးမြို့ ၊ မြို့မရပ်နေ
@@ -29,7 +29,7 @@ export default function About() {
           <p className="text-2xl font-bold text-[#ff6347]">နှင့်</p>
      {/* Bride's Content */}
         <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl text-gray-800">
-          မွန်ပြည်နယ် ၊ သထုံမြို့ ၊ အောက်ကျင်းရပ်နေ <br /> (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း တို့၏ သမီးကြီး၊ <br/>မောင်ခိုင်စိုး+ မအေးအေးမွန်၊ မထက်ထက်ဖြိုး၊ မထက်ထက်မျိုး တို့၏အစ်မ
+          မွန်ပြည်နယ် ၊ သထုံမြို့ ၊ အောက်ကျင်းရပ်နေ <br /> (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း တို့၏ သမီး
          </p>
          {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl text-gray-800">
           မွန်ပြည်နယ် ၊ သထုံမြို့ ၊ အောက်ကျင်းရပ်နေ
