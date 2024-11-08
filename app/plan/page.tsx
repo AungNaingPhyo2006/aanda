@@ -28,7 +28,7 @@ export default function Plan() {
    
       <div className='h-4'/>
         <div className="mt-1">
-        <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/love">Please Save The Date!</Link>
+        <Link className="bg-[#462048] font-bold text-white py-2 px-4 rounded-md hover:bg-blue-600" href="/love">ဖတ်ရှုပြီး</Link>
         </div>
       <div className='h-4'/>
       </div>
