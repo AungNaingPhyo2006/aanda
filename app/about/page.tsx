@@ -9,7 +9,7 @@ export default function About() {
       {/* Scrollable Content */}
      {/* Groom's Content */}
       <div className="text-center space-y-4">
-          <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl  text-gray-800 ">
+          <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl  text-[#344054] ">
           စစ်ကိုင်းတိုင်းဒေသကြီး ၊ တမူးမြို့ ၊<br /> မြို့မရပ်နေ  ဦးမောင်မြင့် + ဒေါ်စန်းရီ တို့၏ သားကြီး
           </p>
           {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800 ">
@@ -25,10 +25,10 @@ export default function About() {
            တို့၏အစ်ကို
           </p> */}
           <p className="text-2xl font-bold text-[#5D5DE2]">မောင်အောင်နိုင်ဖြိုး</p>
-          <p className="sm:text-lg md:text-md lg:text-md xl:text-md  text-gray-900">Software Engineer, <br/>QHRM Myanmar Co,Ltd.</p>
+          <p className="sm:text-lg md:text-md lg:text-md xl:text-md  text-[#667085]">Software Engineer, <br/>QHRM Myanmar Co,Ltd.</p>
           <p className="text-2xl font-bold text-[#5D5DE2]">နှင့်</p>
      {/* Bride's Content */}
-        <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl text-gray-800">
+        <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl text-[#344054]">
           မွန်ပြည်နယ် ၊ သထုံမြို့ ၊ အောက်ကျင်းရပ်နေ <br /> (ဦးဖိုးစိန်) + ဒေါ်ခင်ညိုဝင်း တို့၏ သမီးကြီး
          </p>
          {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl text-gray-800">
@@ -53,9 +53,9 @@ export default function About() {
           တို့၏အစ်မ
          </p> */}
           <p className="text-2xl font-bold text-[#5D5DE2]">မအေးအေးစိုး</p>
-          <p className="sm:text-lg md:text-md lg:text-md xl:text-md text-gray-900">B.Sc(Maths)</p>
+          <p className="sm:text-lg md:text-md lg:text-md xl:text-md text-[#667085]">B.Sc(Maths)</p>
           <p className="text-xl font-bold text-[#5D5DE2]">တို့၏</p>
-          <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦး ဆွမ်းကျွေး အခမ်းအနားသို့ ကြွရောက်ချီးမြှင့်ပေးပါရန် နှစ်ဖက်သော မိဘများနှင့် ကျွန်တော် ကျွန်မတို့က ခင်မင်လေးစားစွာဖြင့် ဖိတ်ကြားအပ်ပါသည်။</p>
+          <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl  text-[#344054]">မင်္ဂလာဦး ဆွမ်းကျွေးပွဲသို့  ကြွရောက်ချီးမြှင့်ပေးပါရန် <br></br> နှစ်ဖက်သော မိဘများနှင့် ကျွန်တော် ကျွန်မတို့က <br></br> ခင်မင်လေးစားစွာဖြင့် ဖိတ်ကြားအပ်ပါသည်။</p>
           {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦးဆွမ်းကျွေး အခမ်းအနားသို့</p>
           <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">ကြွရောက်ချီးမြှင့်ပေးပါရန် </p>
           <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">နှစ်ဖက်သော မိဘများနှင့်</p>
