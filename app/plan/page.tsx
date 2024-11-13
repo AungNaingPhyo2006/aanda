@@ -2,8 +2,8 @@ import Link from 'next/link';
 
 export default function Plan() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-[#FFD700] to-[#FFA500] p-2">
-    <div className="bg-white/80 p-6 rounded-lg shadow-lg w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
+    <div className="min-h-screen flex items-center justify-center bg-[#FEFEFE] p-2">
+    <div className="bg-[#F3F3FB] p-6 rounded-lg shadow-lg w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
       <h1 className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold text-center text-[#4C5933] mb-6">မင်္ဂလာ အစီအစဥ်</h1>
       <h1 className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold text-center text-[#383B42] mt-2">..................</h1>
 
