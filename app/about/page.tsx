@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function About() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-[#FEFEFE] p-2">
-    <div className="bg-[#F3F3FB] p-6 rounded-lg shadow-lg w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
+    <div className="bg-[#F3F3FB] p-6 rounded-lg  w-full max-w-lg overflow-y-auto h-[90vh] scrollbar-hide">
       <h1 className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold text-center text-[#5D5DE2] mb-6">မင်္ဂလာဦး ဆွမ်းကျွေး ဖိတ်ကြားလွှာ</h1> 
 
       {/* Scrollable Content */}
@@ -54,7 +54,7 @@ export default function About() {
          </p> */}
           <p className="text-2xl font-bold text-[#5D5DE2]">မအေးအေးစိုး</p>
           <p className="sm:text-lg md:text-md lg:text-md xl:text-md text-gray-900">B.Sc(Maths)</p>
-          <p className="text-xl font-bold text-[#ff6347]">တို့၏</p>
+          <p className="text-xl font-bold text-[#5D5DE2]">တို့၏</p>
           <p className="text-base sm:text-md md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦး ဆွမ်းကျွေး အခမ်းအနားသို့ ကြွရောက်ချီးမြှင့်ပေးပါရန် နှစ်ဖက်သော မိဘများနှင့် ကျွန်တော် ကျွန်မတို့က ခင်မင်လေးစားစွာဖြင့် ဖိတ်ကြားအပ်ပါသည်။</p>
           {/* <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">မင်္ဂလာဦးဆွမ်းကျွေး အခမ်းအနားသို့</p>
           <p className="text-base sm:text-lg md:text-xl lg:text-xl xl:text-xl  text-gray-800">ကြွရောက်ချီးမြှင့်ပေးပါရန် </p>
