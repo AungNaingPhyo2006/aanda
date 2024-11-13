@@ -3,7 +3,7 @@ import Link from 'next/link';
 export default function Love() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 bg-[#5D5DE2] font-bold font-[family-name:var(--font-geist-sans)] ">
-    <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">#00008B
+    <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#FFFDD0]">ဆေးပေးမီးယူ</p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#FFFDD0]">ဘုရားသွား ကျောင်းတက်</p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#FFFDD0]">ကြင်နာဖော် ကြင်နာဖက်နဲ့</p>
