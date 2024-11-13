@@ -10,17 +10,17 @@ export default function Plan() {
       {/* Scrollable Content */}
       {/* Wedding Plan Details */}
       <div className="text-center space-y-4 mt-6">
-          <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold   text-[#5D5DE2]">
+          <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold   text-[#344054]">
           မင်္ဂလာ နေ့ရက်
           </p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#667085]">၁၃၈၆ ခုနှစ်၊ တန်ဆောင်မုန်း လပြည့်ကျော်(၉)ရက်၊ ၂၄.၁၁.၂၀၂၄(တနင်္ဂနွေနေ့)။<br/></p>
           <div className='h-12'/>
-          <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold    text-[#5D5DE2]">
+          <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold    text-[#344054]">
           မင်္ဂလာ အချိန်
           </p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#667085]">နံနက်( ၈ ) နာရီ မှ ( ၁၀ ) နာရီ အထိ။<br/></p>
           <div className='h-12'/>
-          <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold   text-[#5D5DE2]">
+          <p className="text-base sm:text-lg md:text-xl lg:text-2xl xl:text-3xl font-bold    text-[#344054]">
           မင်္ဂလာ နေရာ
           </p>
           <p className="sm:text-lg md:text-xl lg:text-xl xl:text-xl text-[#667085]">အမှတ်(၄၂၆)၊ အုတ်ဖိုတန်းလမ်း၊ အောက်ကျင်းရပ်၊</p>
